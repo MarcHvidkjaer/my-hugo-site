@@ -4,3 +4,10 @@ title = "My Hugo Site"
 theme = "academimal"
 [params]
 PGPFingerprint = "6E5A6DCF490A39E2CE8A7F5D2848EA82A8F4DDD4"
+
+[markup]
+  [markup.highlight]
+    style = "solarized-light"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

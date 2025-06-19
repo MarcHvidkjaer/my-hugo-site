@@ -1,13 +1,12 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My Hugo Site"
+title = "Marc Sabatier Hvidkjaer"
 theme = "academimal"
 sectionPagesMenu = "main"
 
 [params]
 PGPFingerprint = "6E5A6DCF490A39E2CE8A7F5D2848EA82A8F4DDD4"
 shortbio = "Ph.D. Student in Political Science"
-
 
 [markup]
   [markup.highlight]
